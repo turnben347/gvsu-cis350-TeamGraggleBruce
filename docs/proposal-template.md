@@ -8,11 +8,7 @@ This is a project to fix a problem of mobile apps abandoning support for smart-h
 
 # Anticipated Technologies
 
-Pycharm
-GitHub
-Python
-Smart Light
-Git
+Pycharm, GitHub, Python, a Smart Light, Git
 
 # Method/Approach
 
