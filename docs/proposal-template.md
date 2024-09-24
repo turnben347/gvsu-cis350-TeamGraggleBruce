@@ -16,8 +16,19 @@ We plan to use the Waterfall method to develop this project. Its linear, structu
 
 # Estimated Timeline
 
-(Figure out what your major milestones for this project will be, including how long you anticipate it *may* take to reach that point)
-
+- Research light and how to control
+- Buy light
+- Connect to light
+- Get basic control of light
+- Begin coding of basic functions
+- Create a GUI
+- Make basic commands work with GUI
+- Work on advanced features
+- Add advanced features to GUI
+- Testing
+- Completion
+  
 # Anticipated Problems
 
 Using GV network with smart lights - GV's network is very locked down so it may be diffcult to test and develop the project.
+
