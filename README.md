@@ -1,4 +1,4 @@
-# Team Graggle Bruce
+# Graggle Bruce
 
 Project description (~1 paragraph)
 
