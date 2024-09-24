@@ -1,15 +1,18 @@
-Team name:
+Team name: Team Graggle Bruce
 
-Team members:
+Team members: Adam, Ben
 
 # Introduction
 
-(In 2-4 paragraphs, describe your project concept)
-(Also define some loosely defined features of your project using bullet points)
+This is a project to fix a problem of mobile apps abandoning support for smart-home devices. Our goal is to create a desktop app that can control a smart-home light far into the future, not reliant on any app that could drop support. We want to be able to turn the light on/off, change the color, set a on/off schedule and change the brightness. 
 
 # Anticipated Technologies
 
-(What technologies are needed to build this project)
+Pycharm
+GitHub
+Python
+Smart Light
+Git
 
 # Method/Approach
 
@@ -21,6 +24,4 @@ Team members:
 
 # Anticipated Problems
 
-(Describe any problems you foresee that you will need to overcome)
-
-Remember this is a living document is expected to be changed as you make progress on your project.
+Using GV network with smart lights - GV's network is very locked down so it may be diffcult to test and develop the project.
