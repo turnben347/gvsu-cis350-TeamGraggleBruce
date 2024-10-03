@@ -20,12 +20,15 @@ We plan to use the Waterfall method to develop this project. Its linear, structu
 - Buy light
 - Connect to light
 - Get basic control of light
-- Begin coding of basic functions
+- Begin coding of basic functions with python
+- Test python code
 - Create a GUI
 - Make basic commands work with GUI
-- Work on advanced features
+- Test GUI code
+- Work on advanced features (scheduling, color wheel)
 - Add advanced features to GUI
-- Testing
+- Testing GUI
+- Final testing
 - Completion
   
 # Anticipated Problems
