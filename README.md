@@ -7,8 +7,8 @@ drop support.
 
 ## Team Members and Roles
 
-* Ben Turner (Project Manager, Programmer)
-* Adam Kroese (Team Lead, Networking Expert)
+* Ben Turner (Coding Lead)
+* Adam Kroese (Project Manager)
 
 ## Prerequisites
 
