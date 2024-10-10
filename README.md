@@ -3,7 +3,7 @@ Introduction to Software Engineering - CIS 350
 ```
 ### Department: Computer Science and Engineering
 
-### SmartLight: A desktop gui smart light app
+### SmartLight: A Desktop GUI smart light App
 
 ### Made by:
 ---
