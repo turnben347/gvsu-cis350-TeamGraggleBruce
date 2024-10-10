@@ -6,8 +6,7 @@ This Software Requirements Specification document outlines the functional and no
 3. FR3: Change Light Color: The system shall allow the user to change the color of the light through a color picker.
 4. FR4: Adjust Brightness: The system shall provide a slider for the user to adjust the brightness of the light.
 5. FR5: Schedule Light On: The system shall allow the user to schedule a time for the light to automatically turn on.
-6. FR6: Schedule Light Off
-The system shall allow the user to schedule a time for the light to automatically turn off.
+6. FR6: Schedule Light Off: The system shall allow the user to schedule a time for the light to automatically turn off.
 
 # Non-Functional Requirements
 1. NFR1: Response Time: The system shall respond to user input (such as button clicks or slider adjustments) within 1 second.
