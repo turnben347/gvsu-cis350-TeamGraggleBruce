@@ -1,4 +1,15 @@
-# Team Graggle Bruce
+```
+Introduction to Software Engineering - CIS 350
+```
+### Department: Computer Science and Engineering
+
+### SmartLight: A desktop gui smart light app
+
+### Made by:
+---
+#### Adam Kroese
+#### Ben Turner
+---
 
 This is a project to fix a problem of mobile apps abandoning support for
 smart-home devices. Our goal is to create a desktop app that can control
