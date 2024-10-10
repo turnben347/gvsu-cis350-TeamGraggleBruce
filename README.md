@@ -8,7 +8,7 @@ Introduction to Software Engineering - CIS 350
 ---
 ### Made by:
 #### Adam Kroese (Project Manager)
-#### Ben Turner (Programmer)
+#### Ben Turner (Lead Programmer)
 ---
 ## Abstract
 
