@@ -7,10 +7,10 @@ This Software Requirements Specification document outlines the functional and no
 4. FR4: Adjust Brightness: The system shall provide a slider for the user to adjust the brightness of the light.
 5. FR5: Schedule Light On: The system shall allow the user to schedule a time for the light to automatically turn on.
 6. FR6: Schedule Light Off: The system shall allow the user to schedule a time for the light to automatically turn off.
-7. FR7: Light Color Presets: The system shall provide preset color options (e.g., warm, cool, daylight) that the user can select to change the light color quickly.
+7. FR7: Light Color Presets: The system shall provide preset color options that the user can select to change the light color quickly.
 8. FR8: Reset Light to Default Settings: The system shall provide a button to reset the light settings to default.
 9. FR9: Cancel Scheduled Events: The system shall allow the user to cancel any scheduled on/off event.
-10. FR10: Network Status Indicator: The system shall display the current network status to ensure the user knows whether the light can be accessed.
+10. FR10: Network Status Indicator: The system shall display the current network status so the user knows whether the light can be accessed.
 11. FR11: Python as the Programming Language: The system shall be implemented using Python as the only programming language.
 12. FR12: Use of the python-kasa Library: The system shall utilize the python-kasa library to communicate with TP-Link smart device
 13. FR13: Graphical User Interface (GUI) Library: The system shall use a Python GUI to create a user-friendly interface.
