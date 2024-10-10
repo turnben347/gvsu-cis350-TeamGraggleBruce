@@ -12,10 +12,10 @@ This Software Requirements Specification document outlines the functional and no
 9. FR9: Cancel Scheduled Events: The system shall allow the user to cancel any scheduled on/off event.
 10. FR10: Status Indicator: The system shall display the current network status so the user knows whether the light can be accessed.
 11. FR11: Python as the Programming Language: The system shall be implemented using Python as the only programming language.
-12. FR12: Use of the python-kasa Library: The system shall utilize the python-kasa library to communicate with TP-Link smart device
-13. FR13: Graphical User Interface (GUI) Library: The system shall use a Python GUI to create a user-friendly interface.
-14. FR25: Windows 10 Compatibility: The system shall be fully compatible with Windows 10.
-15. 
+12. FR12: Use of the pythonkasa Library: The system shall utilize the pythonkasa library to communicate with TP-Link smart device.
+13. FR13: Graphical User Interface Library: The system shall use a Python GUI to create a user-friendly interface.
+14. FR14: Windows 10 Compatibility: The system shall be fully compatible with Windows 10.
+15. FR15: Standalone App: The app shall be able to run standalone.
 
 # Non-Functional Requirements
 1. NFR1: Response Time: The system shall respond to user input (such as button clicks or slider adjustments) within 1 second.
