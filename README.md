@@ -6,7 +6,6 @@ Introduction to Software Engineering - CIS 350
 ### SmartLight: A Desktop GUI smart light App
 
 ### Made by:
----
 #### Adam Kroese (Project Manager)
 #### Ben Turner (Programmer)
 ---
