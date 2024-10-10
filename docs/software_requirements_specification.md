@@ -9,7 +9,7 @@ This Software Requirements Specification document outlines the functional and no
 6. FR6: Schedule Light Off: The system shall allow the user to schedule a time for the light to automatically turn off.
 7. FR7: Light Color Presets: The system shall provide preset color options that the user can select to change the light color quickly.
 8. FR8: Reset Light to Default Settings: The system shall provide a button to reset the light settings to default.
-9. FR9: Cancel Scheduled Events: The system shall allow the user to cancel any scheduled on/off event.
+9. FR9: Availability: The system shall be available for use without an outside internet connection.
 10. FR10: Status Indicator: The system shall display the current network status so the user knows whether the light can be accessed.
 11. FR11: Python as the Programming Language: The system shall be implemented using Python as the only programming language.
 12. FR12: Use of the pythonkasa Library: The system shall utilize the pythonkasa library to communicate with TP-Link smart device.
@@ -18,12 +18,10 @@ This Software Requirements Specification document outlines the functional and no
 15. FR15: Standalone App: The app shall be able to run standalone.
 
 # Non-Functional Requirements
-1. NFR1: Response Time: The system shall respond to user input (such as button clicks or slider adjustments) within 1 second.
-2. NFR2: Availability: The system shall be available for use without an outside internet connection
-3. NFR3: User Interface Aesthetics: The GUI shall be intuitive and visually appealing, with a modern and clean design.
-4. NFR4: Usability: The system shall be easy to use, with all major actions accessible within two clicks.
-5. NFR5: Reliability: The system shall perform API interactions reliably, with a failure rate of less than 1% for all API calls.
-6. NFR6: Resource Usage: The system shall use minimal system resources, ensuring it can run efficiently on low-end machines.
-7. NFR7: Maintainability: The code shall follow coding best practices to allow for easy maintenance and updates.
-8. NFR8: Startup Time: The system shall load and become fully functional within 5 seconds of being launched.
-9. 
+1. NFR1: Response Time: The system shall respond to user input within 1 second.
+2. NFR2: User Interface Aesthetics: The GUI shall be intuitive and visually appealing, with a modern and clean design.
+3. NFR3: Usability: The system shall be easy to use, with all major actions accessible within two clicks.
+4. NFR4: Reliability: The system shall perform API interactions reliably, with a failure rate of less than 1% for all API calls.
+5. NFR5: Resource Usage: The system shall use minimal system resources, ensuring it can run efficiently on low-end machines.
+6. NFR6: Maintainability: The code shall follow coding best practices to allow for easy maintenance and updates.
+7. NFR7: Startup Time: The system shall load and become fully functional within 5 seconds of being launched.
