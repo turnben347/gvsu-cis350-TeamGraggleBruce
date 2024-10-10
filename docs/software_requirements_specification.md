@@ -21,9 +21,9 @@ This Software Requirements Specification document outlines the functional and no
 1. NFR1: Response Time: The system shall respond to user input (such as button clicks or slider adjustments) within 1 second.
 2. NFR2: Availability: The system shall be available for use without an outside internet connection
 3. NFR3: User Interface Aesthetics: The GUI shall be intuitive and visually appealing, with a modern and clean design.
-4. NFR4: Usability: The system shall be easy to use, with all major actions (on/off, brightness, color change) accessible within two clicks.
+4. NFR4: Usability: The system shall be easy to use, with all major actions accessible within two clicks.
 5. NFR5: Reliability: The system shall perform API interactions reliably, with a failure rate of less than 1% for all API calls.
-6. NFR6: Minimal Resource Usage: The system shall use minimal system resources (CPU and memory), ensuring it can run efficiently on low-end machines.
+6. NFR6: Minimal Resource Usage: The system shall use minimal system resources, ensuring it can run efficiently on low-end machines.
 7. NFR7: Maintainability: The codebase shall follow clear coding standards and best practices to allow for easy maintenance and updates.
 8. NFR8: Startup Time: The system shall load and become fully functional within 5 seconds of being launched.
 9. 
