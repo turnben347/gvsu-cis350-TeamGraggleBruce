@@ -25,3 +25,6 @@ This Software Requirements Specification document outlines the functional and no
 5. NFR5: Resource Usage: The system shall use minimal system resources, ensuring it can run efficiently on low-end machines.
 6. NFR6: Maintainability: The code shall follow coding best practices to allow for easy maintenance and updates.
 7. NFR7: Startup Time: The system shall load and become fully functional within 5 seconds of being launched.
+8. NFR8: Screen Size: The app GUI shall not take up for than 1/4 of the screen.
+9. NFR9: Storage Size: The app shall not take up more than 500MB.
+10. NFR10: Simplicity: The app shall be simple looking and easy to use with less than 10 buttons on the screen.
