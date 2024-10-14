@@ -35,7 +35,7 @@ We used Trello to manage tasks and track progress throughout the project. Trello
 In a use case diagram for a this SmartLight app, the primary actor is the User who interacts with functionalities like controlling the Smart-Home light by turning it on/off, asjuting the brightness, changing the color, and setting automation. Along with interacting with user authenication when opening the app and interacing with the app's settings. While the Smart-Home system or light itself, covers the same four functionalities that the user interacts with. This diagram outlines the essential interactions and functionalities between the user and the Smart-Home system.
 
 <p align="center">
-  <img src="" width="500" title="use case diagram">
+  <img src="UseCase.png" width="500" title="use case diagram">
   <br>
   <br>
   Figure 2: Use Case Diagram
