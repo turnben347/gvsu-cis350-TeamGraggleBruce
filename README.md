@@ -25,5 +25,5 @@ We used Trello to manage tasks and track progress throughout the project. Trello
   <img src="Trello.png" width="500" title="trello board">
   <br>
   <br>
-  Figure 1: Jira
+  Figure 1: Trello
 </p>
