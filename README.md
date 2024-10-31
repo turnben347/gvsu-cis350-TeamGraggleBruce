@@ -21,7 +21,7 @@ In recent years, smart-home devices have become integral to modern living, offer
 
 We used Trello to manage tasks and track progress throughout the project. Trello helped us break down the project into manageable tasks to be done one at a time. It allowed us to prioritize each task one by one in order to track issues and address problems as we worked on it. Overall, Trello kept our team and project itself organized and on track, ensuring we met all of our project goals.
 
-https://docs.google.com/spreadsheets/d/1sDt7QemYtYuFCQfDIhnI2cqUmL9NIpSKbYpQkwIz9jw/edit?usp=sharing
+https://trello.com/invite/b/67059692952ac4f37df16a01/ATTI3b5840917eb7dd9c7e9df87764a464295DC070C2/smartlightapp
 
 ## 3 Architectural Design
 
