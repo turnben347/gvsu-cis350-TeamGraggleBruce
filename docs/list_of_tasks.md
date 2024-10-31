@@ -27,7 +27,7 @@
 - Project Setup and Environment Configuration
 - Core Functionality Implementation
 
-#Tasks that have not yet been completed
+# Tasks that have not yet been completed
 - GUI Design and Development
 - Advanced Feature Implementation
 - Testing and Debugging
