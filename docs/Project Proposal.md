@@ -36,3 +36,13 @@ We plan to use the Waterfall method to develop this project. Its linear, structu
 
 - Using GV network with smart lights - GV's network is very locked down so it may be diffcult to test and develop the project.
 - Communication between app and light
+
+# Essential, desirable, optional features
+# Essential
+- On/off
+- Brightness
+- Color change
+# Desirable
+- Color Picker
+# Optional
+- Scheduling
