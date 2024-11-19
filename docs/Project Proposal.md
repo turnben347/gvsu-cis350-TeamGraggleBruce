@@ -18,16 +18,17 @@ We plan to use the Waterfall method to develop this project. Its linear, structu
 
 - Research light and how to control
 - Buy light
-- Connect to light
+- Connect to light with python-kasa
 - Get basic control of light
-- Begin coding of basic functions with python
-- Test python code
+- Code to turn light on/off
 - Create a GUI
-- Make basic commands work with GUI
-- Test GUI code
-- Work on advanced features (scheduling, color wheel)
-- Add advanced features to GUI
-- Testing GUI
+- GUI code to turn light on/off
+- Brightness code
+- GUI code (slider) to change brightness
+- Code for color wheel
+- GUI code for color wheel
+- Code for scheduling
+- GUI code for scheduling
 - Final testing
 - Completion
   
