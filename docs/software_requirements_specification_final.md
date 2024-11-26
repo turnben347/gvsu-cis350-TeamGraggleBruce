@@ -33,7 +33,7 @@ This Software Requirements Specification document outlines the functional and no
 8. NFR8: Screen Size: The app GUI shall not take up for than 1/4 of the screen.
 9. NFR9: Simplicity: The app shall be simple looking and easy to use with less than 10 buttons on the screen.
 10. NFR10: UI: All UI components shall be accessible via mouse interaction.
-Scalability/Maintainability:
+# Scalability/Maintainability:
 11. NFR11: Maintainability: The code shall follow coding best practices to allow for easy maintenance and updates.
 12. NFR12: IP Control: The code shall allow for easy IP address assignment to control additional smart bulbs in the future.
 13. NFR13: Modularity: The code shall be modular, separating GUI logic, bulb control, and other functions to allow easier updates.
