@@ -34,3 +34,20 @@ In a use case diagram for a this SmartLight app, the primary actor is the User w
   <br>
   <br>
   Figure 2: Use Case Diagram
+
+  ### 3.2 Class Diagram
+
+  This section includes an MVC pattern class diagram for the SmartLight application. The diagram highlights the following components:
+
+- **Boundary Class**: SmartLightApp
+- **Control Class**: SmartLightController
+- **Entity Classes**: SmartLight, Slider, ColorPicker, Color
+
+This diagram demonstrates how the user interface, control logic, and device models interact within the SmartLight application. It offers a clear view of how these components work together to manage light control, adjust brightness, and change colors.
+
+<p align="center">
+  <img src="artifacts/Class.png" width="500" title="class diagram">
+  <br>
+  <br>
+  Figure 3: Class Diagram
+</p>
