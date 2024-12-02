@@ -37,7 +37,7 @@ In a use case diagram for a this SmartLight app, the primary actor is the User w
 
   ### 3.2 Class Diagram
 
-  This section includes an MVC pattern class diagram for the SmartLight application. The diagram highlights the following components:
+  This section includes a class diagram for the SmartLight application. The diagram highlights the following components:
 
 - **Boundary Class**: SmartLightApp
 - **Control Class**: SmartLightController
