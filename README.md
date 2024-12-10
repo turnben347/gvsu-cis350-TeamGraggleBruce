@@ -93,7 +93,7 @@ From this window the user can turn the light on and off, change the brightenss f
 
 ### 4.3 Color Picker
 
-When the user clicks on the "Change Color" button, it opens a popup window with a color picker that includes a wide range of pre-selected colors along with the option to type in r.g.b. values.
+When the user clicks on the "Change Color" button, it opens a popup window with a color picker that includes a wide range of pre-selected colors along with the option to type in RGB values.
 
 <p align="center">
   <img src="artifacts/ColorPicker.png" width="175
