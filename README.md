@@ -110,7 +110,7 @@ One area that could have been improved is the user interface. The UI ended up fe
 
 ## 6 Future Scope
 
-There are several enhancements we could incorporate into future versions of the SmartLight app to improve both user experience and functionality. One of the key features we could introduce is the ability to save and recall lighting preferences. This will allow users to easily set their preferred brightness and color schemes for different times of the day or moods, ensuring a more personalized and seamless experience. Additionally, we could plan to revisit our failed scheduing function. It would give the ability to set schedules for lights to automatically turn on/off, adjust brightness, or change color at specific times. This will improve convenience for users and help optimize energy usage, providing a more automated and efficient experience. 
+There are several enhancements we could incorporate into future versions of the SmartLight app to improve both user experience and functionality. One of the key features we could introduce is the ability to save and recall lighting preferences. This will allow users to easily set their preferred brightness and color schemes for different times of the day or moods, ensuring a more personalized and seamless experience. Additionally, we could plan to revisit our failed scheduling function. It would give the ability to set schedules for lights to automatically turn on/off, adjust brightness, or change color at specific times. This will improve convenience for users and help optimize energy usage, providing a more automated and efficient experience. 
 
 ## 7 Conclusion
 
