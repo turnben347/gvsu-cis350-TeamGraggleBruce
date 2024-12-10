@@ -51,3 +51,14 @@ This diagram demonstrates how the user interface, control logic, and device mode
   <br>
   Figure 3: Class Diagram
 </p>
+
+### 3.3 Sequence Diagram
+
+This section contains the sequence diagram for a user interacting with the smart light app. The user starts by toggling the light on or off, adjusting the brightness using the slider, and selecting a color through the color picker. The app processes these inputs, communicates with the smart light, and updates the user interface to reflect the changes.
+
+<p align="center">
+  <img src="artifacts/Sequence.png" width="500" title="sequence diagram">
+  <br>
+  <br>
+  Figure 4: Sequence Diagram
+</p>
