@@ -82,3 +82,11 @@ From this window the user can turn the light on and off, change the brightenss f
   <br>
   Figure 4: Home Sceen
 </p>
+
+<p align="center">
+  <img src="artifacts/HomeScreen2.png" width="175
+  " title="App Screen 2">
+  <br>
+  <br>
+  Figure 5: Home Sceen (100 brightness w/ light turned on)
+</p>
