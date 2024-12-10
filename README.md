@@ -33,7 +33,7 @@ In a use case diagram for a this SmartLight app, the primary actor is the User w
   <img src="artifacts/use_case_diagram/UseCase.png" width="500" title="use case diagram">
   <br>
   <br>
-  Figure 2: Use Case Diagram
+  Figure 1: Use Case Diagram
 
   ### 3.2 Class Diagram
 
@@ -49,7 +49,7 @@ This diagram demonstrates how the user interface, control logic, and device mode
   <img src="artifacts/Class.png" width="500" title="class diagram">
   <br>
   <br>
-  Figure 3: Class Diagram
+  Figure 2: Class Diagram
 </p>
 
 ### 3.3 Sequence Diagram
@@ -60,5 +60,25 @@ This section contains the sequence diagram for a user interacting with the smart
   <img src="artifacts/Sequence.png" width="500" title="sequence diagram">
   <br>
   <br>
-  Figure 4: Sequence Diagram
+  Figure 3: Sequence Diagram
+</p>
+
+## 4 User Guide/implementation
+
+### 4.1 Client Side
+
+#### 4.1.1 Starting the Application
+
+Using a python IDE, copy and the code python code provided in the src file and make sure to change the IP address to the location of your "tp-link Kasa Smart Light Bulb: Multicolor". The user then needs to make the sure the light is turned on and then run the code in the IDE. (To make using this code easier going forward, make the code into an .exe file and it works the same without having to use an IDE. Keep in mind the .exe file only works for the current IP address of the light, so if you change the code at all, you have to make a new .exe). When the code is working properly, the the app will open to the Home Screen.
+
+### 4.2 Home
+
+From this window the user can turn the light on and off, change the brightenss from 0 to 100 using a slider, or change the color.
+
+<p align="center">
+  <img src="artifacts/HomeScreen.png" width="175
+  " title="App Screen">
+  <br>
+  <br>
+  Figure 4: Home Sceen
 </p>
