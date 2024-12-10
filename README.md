@@ -97,8 +97,8 @@ When the user clicks on the "Change Color" button, it opens a popup window with 
 
 <p align="center">
   <img src="artifacts/ColorPicker.png" width="300
-  " title="App Screen">
+  " title="Color Picker">
   <br>
   <br>
-  Figure 6: View Log Screen
+  Figure 6: Color Picker
 </p>
