@@ -115,3 +115,6 @@ There are several enhancements we could incorporate into future versions of the 
 ## 7 Conclusion
 
 Overall, the SmartLight app provides essential tools for anyone looking to control and personalize their smart-home lighting experience. By allowing users to turn lights on/off, adjust brightness, and change colors, we aim to make home lighting more convenient, customizable, and enjoyable. We believe this app has the potential to be a great option for anyone looking to take full control of their smart-home light.
+
+## 8 Walkthrough
+[Demo_Video](https://youtu.be/xpGDOYErqfc)
