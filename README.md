@@ -69,7 +69,7 @@ This section contains the sequence diagram for a user interacting with the smart
 
 #### 4.1.1 Starting the Application
 
-Using a python IDE, copy and the code python code provided in the src file and make sure to change the IP address to the location of your "tp-link Kasa Smart Light Bulb: Multicolor". The user then needs to make the sure the light is turned on and then run the code in the IDE. (To make using this code easier going forward, make the code into an .exe file and it works the same without having to use an IDE. Keep in mind the .exe file only works for the current IP address of the light, so if you change the code at all, you have to make a new .exe). When the code is working properly, the the app will open to the Home Screen.
+Using a python IDE, copy and the code python code provided in the src file and make sure to change the IP address to the location of your "tp-link Kasa Smart Light Bulb: Multicolor". Also make sure your device and light are on the same wifi network. The user then needs to make the sure the light is turned on and then run the code in the IDE. (To make using this code easier going forward, make the code into an .exe file and it works the same without having to use an IDE. Keep in mind the .exe file only works for the current IP address of the light, so if you change the code at all, you have to make a new .exe). When the code is working properly, the the app will open to the Home Screen.
 
 ### 4.2 Home
 
@@ -102,3 +102,17 @@ When the user clicks on the "Change Color" button, it opens a popup window with 
   <br>
   Figure 6: Color Picker
 </p>
+
+## 5 Risk Analysis and Retrospective
+
+Here’s a rewritten version that fits your SmartLight app project:
+
+**5. Risk Analysis and Retrospective**
+
+At the start of the project, we were ambitious with our goals, but the limited time available posed a challenge. One of the primary risks was implementing all the desired features within the deadline, particularly due to the complexity of integrating various functionalities for controlling the lights. A recurring issue was ensuring that changes made by the user (such as turning the light on/off, adjusting brightness, or changing color) were applied correctly to the right light. Additionally, we faced difficulties getting the scheduling function down, which is why we decided to scrap that feature entirely in the final version.
+
+To overcome these challenges, we used various online resources to troubleshoot specific issues and find solutions. This approach allowed us to effectively address technical problems and maintain progress in the development process.
+
+Despite these obstacles, we successfully implemented several key features. Users can now turn their lights on/off, adjust brightness, and change colors, with the changes applied immediately to the corresponding light. And We tried our best to ensure that these interactions are smooth which they ended up being.
+
+One area that could have been improved is the user interface (UI). The UI ended up feeling very plain and boring and If we had more time to focus on UI design, we could have created a more cohesive and user-friendly experience, making the app even more efficient and pleasant for users.
