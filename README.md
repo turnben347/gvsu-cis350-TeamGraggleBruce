@@ -109,10 +109,17 @@ Here’s a rewritten version that fits your SmartLight app project:
 
 **5. Risk Analysis and Retrospective**
 
-At the start of the project, we were ambitious with our goals, but the limited time available posed a challenge. One of the primary risks was implementing all the desired features within the deadline, particularly due to the complexity of integrating various functionalities for controlling the lights. A recurring issue was ensuring that changes made by the user (such as turning the light on/off, adjusting brightness, or changing color) were applied correctly to the right light. Additionally, we faced difficulties getting the scheduling function down, which is why we decided to scrap that feature entirely in the final version.
+At the start of the project, we were ambitious with our goals, but the limited time available posed a challenge. One of the primary risks was implementing all the desired features within the deadline, particularly due to the complexity of integrating various functionalities for controlling the lights. A recurring issue was ensuring that changes made by the user (such as turning the light on/off, adjusting brightness, or changing color) were applied correctly to the right light. Additionally, we faced difficulties getting the scheduling function down, which is why we decided to scrap that feature entirely in the final version. To overcome these challenges, we used various online resources to troubleshoot specific issues and find solutions. This approach allowed us to effectively address technical problems and maintain progress in the development process. Despite these obstacles, we successfully implemented several key features. Users can now turn their lights on/off, adjust brightness, and change colors, with the changes applied immediately to the corresponding light. And We tried our best to ensure that these interactions are smooth which they ended up being.
+One area that could have been improved is the user interface. The UI ended up feeling very plain and boring and If we had more time to focus on UI design, we could have created a more cohesive and user-friendly experience, making the app even more efficient and pleasant for users.
 
-To overcome these challenges, we used various online resources to troubleshoot specific issues and find solutions. This approach allowed us to effectively address technical problems and maintain progress in the development process.
+## 6 Future Scope
 
-Despite these obstacles, we successfully implemented several key features. Users can now turn their lights on/off, adjust brightness, and change colors, with the changes applied immediately to the corresponding light. And We tried our best to ensure that these interactions are smooth which they ended up being.
+Here’s a rewritten version tailored to your SmartLight app project:
 
-One area that could have been improved is the user interface (UI). The UI ended up feeling very plain and boring and If we had more time to focus on UI design, we could have created a more cohesive and user-friendly experience, making the app even more efficient and pleasant for users.
+**Future Enhancements**
+
+There are several enhancements we could incorporate into future versions of the SmartLight app to improve both user experience and functionality. One of the key features we could introduce is the ability to save and recall lighting preferences. This will allow users to easily set their preferred brightness and color schemes for different times of the day or moods, ensuring a more personalized and seamless experience. Additionally, we could plan to revisit our failed scheduing function. It would give the ability to set schedules for lights to automatically turn on/off, adjust brightness, or change color at specific times. This will improve convenience for users and help optimize energy usage, providing a more automated and efficient experience. 
+
+## 7 Conclusion
+
+Overall, the SmartLight app provides essential tools for anyone looking to control and personalize their smart-home lighting experience. By allowing users to turn lights on/off, adjust brightness, and change colors, we aim to make home lighting more convenient, customizable, and enjoyable. We believe this app has the potential to be a great option for anyone looking to take full control of their smart-home light.
